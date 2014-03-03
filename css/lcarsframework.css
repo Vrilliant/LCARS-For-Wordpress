@@ -1,0 +1,221 @@
+/* LCARS Framework Admin Styles */
+
+#lcarsframework {
+    max-width:840px;
+    background:#fff;
+}
+#lcarsframework h3 {
+	cursor: default;
+	background-color: #f1f1f1;
+	border-bottom: 1px solid #ddd;
+}
+#lcarsframework p {
+	margin-bottom:0;
+	padding-bottom:10px;
+}
+#lcarsframework .section {
+	padding:10px 10px 0;
+}
+#lcarsframework .group {
+	padding-bottom:40px;
+}
+#lcarsframework .section .controls {
+	float: left;
+	min-width:350px;
+	width: 54%;
+	padding-right:2%;
+}
+#lcarsframework .section .explain {
+	max-width:38%;
+	float: left;
+	font-size: 12px;
+	line-height:16px;
+	color: #777;
+}
+#lcarsframework .section-checkbox .controls {
+	width: 98%;
+}
+#lcarsframework .section-checkbox .explain {
+	max-width:94%;
+}
+#lcarsframework .controls select, #lcarsframework .controls textarea {
+	margin-bottom:10px;
+	width:100%;
+}
+#lcarsframework .section-radio label, #lcarsframework .section-multicheck label {
+	float:left;
+	max-width:90%;
+	line-height: 16px;
+	margin-bottom: 5px;
+}
+#lcarsframework input.checkbox, #lcarsframework input.of-radio {
+	margin: 0 10px 5px 0;
+	float:left;
+	clear:both;
+}
+#lcarsframework .section-typography .controls {
+	float:none;
+	width:auto;
+}
+#lcarsframework .section-typography .explain {
+	float:none;
+	width:auto;
+}
+#lcarsframework .controls .of-typography-size {
+	width:80px;
+	float:left
+}
+#lcarsframework .controls .of-typography-unit {
+	width:50px;
+	margin-left:5px;
+	float:left
+}
+#lcarsframework .controls .of-typography-face {
+	width:100px;
+	margin-left:5px;
+	float:left
+}
+#lcarsframework .controls .of-typography-style {
+	width:80px;
+	margin-left:5px;
+	margin-right:5px;
+	float:left
+}
+#lcarsframework .of-background-properties {
+	clear:both;
+	margin-top: 18px;
+}
+#lcarsframework .controls .of-background-repeat {
+	width:125px;
+	margin-right:5px;
+	float:left
+}
+#lcarsframework .controls .of-background-position {
+	width:125px;
+	margin-right:5px;
+	float:left
+}
+#lcarsframework .controls .of-background-attachment {
+	width:125px;
+	margin-right:5px;
+	float:left
+}
+#lcarsframework .section-background .wp-picker-container {
+	margin-bottom:10px;
+}
+#lcarsframework .controls .of-radio-img-img {
+	border:3px solid #f9f9f9;
+	margin:0 5px 10px 0;
+	display:none;
+	cursor:pointer;
+	float:left;
+}
+#lcarsframework .controls .of-radio-img-selected {
+	border:3px solid #ccc
+}
+#lcarsframework .controls .of-radio-img-img:hover {
+	opacity:.8;
+}
+#lcarsframework .controls .of-border-width {
+	width:80px;
+	float:left
+}
+#lcarsframework .controls .of-border-style {
+	width:120px;
+	float:left
+}
+#lcarsframework .hide {
+	display:none;
+}
+#lcarsframework .of-option-image {
+	max-width:340px;
+	margin:3px 0 18px 0;
+}
+#lcarsframework .mini .controls select, #lcarsframework .section .mini .controls {
+	width: 140px;
+}
+#lcarsframework .mini .controls input, #lcarsframework .mini .controls {
+	min-width:140px;
+	width: 140px;
+}
+#lcarsframework .mini .explain {
+	max-width:74%;
+}
+
+/* Editor */
+
+#lcarsframework .section-editor .explain {
+	max-width: 98%;
+	float:none;
+	margin-bottom:5px;
+}
+
+/* Image Uploader */
+
+#lcarsframework .controls input.upload {
+	width:80%;
+}
+#lcarsframework .screenshot {
+	float:left;
+	margin-left:1px;
+	position:relative;
+	width:344px;
+	margin-top:3px;
+}
+#lcarsframework .screenshot img {
+	background:#fafafa;
+	border-color:#ccc #eee #eee #ccc;
+	border-style:solid;
+	border-width:1px;
+	float:left;
+	max-width:334px;
+	padding:4px;
+	margin-bottom:10px;
+}
+#lcarsframework .screenshot .remove-image {
+	background:url("../images/ico-delete.png") no-repeat;
+	border:medium none;
+	bottom:4px;
+	display:block;
+	float:left;
+	height:16px;
+	padding:0;
+	position:absolute;
+	left:-4px;
+	text-indent:-9999px;
+	width:16px;
+}
+#lcarsframework .screenshot .no_image .file_link {
+	margin-left: 20px;
+}
+#lcarsframework .screenshot .no_image .remove-button {
+	bottom: 0px;
+}
+#lcarsframework .reset-button {
+	float:left;
+	cursor:pointer;
+}
+
+/* Bottom Section */
+
+#lcarsframework-submit {
+	padding: 7px 10px;
+	border-top: 1px solid #ddd;
+	background-color: #f1f1f1;
+}
+#lcarsframework .button-primary {
+	float:right;
+}
+#lcarsframework .section:after {
+	content: "";
+	display: table;
+}
+#lcarsframework .section:after {
+	clear: both;
+}
+
+@font-face {
+	font-family: LCARS;
+	src: url('/fonts/Swiss911.TTF');
+}
+
