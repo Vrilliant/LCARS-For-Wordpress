@@ -20,7 +20,7 @@ function loadIndexPage()
 	var xDivisor = 0.00073, yDivisor = 0.00164192;
 	var baseOffsetX =  100 * xDivisor; 
 	var baseOffsetY = 100 * yDivisor;
-	var KeyColor = LCARSColors[1][2];
+	var KeyColor = LCARSColors[0][3];
 	var keyArray = new Array(
 								// Row 1
 								new Array( 'ESC', 0, 0, 50, 25, false  ), 
