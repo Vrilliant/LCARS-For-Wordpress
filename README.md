@@ -3,16 +3,13 @@ LCARS-For-Wordpress
 
 LCARS (Library Computer Access/Retrieval System) for Wordpress
 
-Greetings, I'm Dr Brian Scott Gregory, lover of Science Fiction and Fantasy, coder, hacker, and generally
+Greetings, I'm DrBrian Scott Gregory, lover of Science Fiction and Fantasy, coder, hacker, and generally
 out for a good time - and clearly a proponent of the Star Trek Universe.
 
 CBS has infamously made programmer's lives difficult when it comes to creating revenue based on
 Intellectual Property of the Star Trek franchise - and the LCARS system as a whole. They would like to think
 they own absolutely everything contained within the series. If they had their way, they'd be representing
 the Borg and claim the human image is theirs too, and we shouldn't be allowed to have it and it's their property.
-
-Interestingly enough, there's actually a couple legal loopholes aroundthis, which I'm exploiting one of them 
-by delivering the source code to you, publicly. 
 
 So here's the legal scoop if you want to do work on your own LCARS or Star Trek themed variations 
 and legally snub the 'cease and desist' by shitcanning those threats:
@@ -55,7 +52,7 @@ Citation(s) 	35 F.3d 1435; 63 USLW 2259, 1994 Copr.L.Dec. P 27,301, 32 U.S.P.Q.2
 
 Where Microsoft tried suing Apple for look and feel infringement of their user interface, where they summarily 
 lost the case. This established legal precendent, and protects ANY AND ALL WORKS we do as individuals based on 
-the LCARS interface we saw in Star Trek.
+the LCARS look and feel we saw in Star Trek.
 
 Now as a final aside. There's a little blurb in patent law which states "A patent is essentially a limited 
 monopoly whereby the patent holder is granted the exclusive right to make, use, and sell the patented innovation 
@@ -66,13 +63,7 @@ Note the keywords. LIMITED monopoly to SELL a product for a limited period of ti
 a) LCARS has NEVER (publicly) been sold as a product. I repeat. Never. Publicly.
 b) Even if it had been, Microsoft vs Apple set legal precedence and made the LCARS Interface public domain.
 
-Commercial environments, like nature herself, thrives off of competition.
-
-Since there's a product which IS NOT currently PUBLICLY being sold, then it behooves us as developers, lawyers, 
-designers, content creators, artists, and more - to both respect the original works presented, and to offer 
-alternatives leveraging the enthusiasm of the community. 
-
-The rumor is. The ezisting 'product' that doesn't exist is slow to load, and unresponsive. 
+There's a rumor that the ezisting 'product' that doesn't exist is slow to load, and unresponsive. 
 
 I'm a decent coder, not so great at organization, and asking you, the open source community, to work with me and 
 the company I represent - Vrilliant - to help develop something that can be leveraged, for free, for anyone, anywhere 
