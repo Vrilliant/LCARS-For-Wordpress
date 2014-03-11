@@ -3,7 +3,7 @@ LCARS-For-Wordpress
 
 LCARS (Library Computer Access/Retrieval System) for Wordpress
 
-Greetings, I'm DrBrian Scott Gregory, lover of Science Fiction and Fantasy, coder, hacker, and generally
+Greetings, I'm Brian Scott Gregory, lover of Science Fiction and Fantasy, coder, hacker, and generally
 out for a good time - and clearly a proponent of the Star Trek Universe.
 
 CBS has infamously made programmer's lives difficult when it comes to creating revenue based on
